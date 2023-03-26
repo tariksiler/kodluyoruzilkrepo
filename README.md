@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 
-# [Patika.dev Profilim için Lütfen TIKLAYINIZ](https://app.patika.dev/tariksiler)
+## [Patika profilim için Lütfen TIKLAYINIZ](https://app.patika.dev/tariksiler)
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
@@ -16,9 +16,12 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 - Sıra numarası iyi olur
     - Alt İçerik
 
-Aslında kod satırı olarak algılanacak diyerek anlattığınız  ``` işaretinide uygulamak isterdim ama inanın o konuyu anlayamadım.
+Tek satır kod bloğunu anladım ama çok satırlı kod bloklarını kafamda tam oturtamadığım için o konuda bir örnek gösteremedim.
 
-
-
+|Tamamlanan Ders Saysı|Anladığım Ders Sayısı|En Az 3 Tekrar Yaptığım Ders Sayısı|
+|:---|:---:|---:|
+|3|3|2|
+---
+Burayada bir görsel bırakıyorum.
 ![Görsel logo](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/markdown.png?raw=true)
 
